@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		AF6537BC2512F14400926E11 /* NOCList-ObjC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "NOCList-ObjC"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF6537BF2512F14400926E11 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AF6537C62512FEB300926E11 /* LSIAgent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSIAgent.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				AF6537BF2512F14400926E11 /* main.m */,
+				AF6537C62512FEB300926E11 /* LSIAgent.h */,
 			);
 			path = "NOCList-ObjC";
 			sourceTree = "<group>";
